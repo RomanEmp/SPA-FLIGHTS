@@ -1,0 +1,12 @@
+.Filter{
+    position: fixed;
+    display: inline-block;
+    width:20%;
+    text-align: left;
+    margin-left: 100px;
+    background: linear-gradient(90deg, #5041b2 0%, #7969e6 100%);
+}
+.Filter p{
+    color: #FFF;
+}
+

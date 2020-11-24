@@ -1,0 +1,24 @@
+.Result{
+    /* display: flex; */
+   display: inline-block;
+    width: 70%;
+    justify-content: center;
+    padding-left: 500px;
+    background: linear-gradient(90deg, #5041b2 0%, #7969e6 100%);
+    color: white;
+       
+    
+    
+}
+.heater{
+   background-color: rgb(255, 0, 85); 
+   margin-left: 0;
+   
+}
+.Result .content{
+    background-color: aqua;  
+}
+.Result button {
+    text-align: center;
+    
+}
